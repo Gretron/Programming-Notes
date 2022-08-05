@@ -58,7 +58,7 @@ public class Conditions
 
 #### Model Helpers
 
-Model helpers are simply classes meant to get data as model objects, see following examples:
+xxxxxxxxxx dialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);c#
 
 ##### Rest/JSON Helper
 
