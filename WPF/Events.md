@@ -6,7 +6,7 @@
 
 To bind element events to commands, download the package called "**Microsoft.Xaml.Behaviors.Wpf**":
 
-![image-20220724220433353](C:\Users\david\AppData\Roaming\Typora\typora-user-images\image-20220724220433353.png)
+![image-20220724220433353](..\.img\image-20220724220433353.png)
 
 To utilize in XAML code:
 

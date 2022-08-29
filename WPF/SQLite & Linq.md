@@ -6,7 +6,7 @@
 
 To get SQLite via NuGet, download the package called "**sqlite-net-pcl**":
 
-![image-20220712154712223](C:\Users\david\AppData\Roaming\Typora\typora-user-images\image-20220712154712223.png)
+![image-20220712154712223](..\.img\image-20220712154712223.png)
 
 To use SQLite package in C# code:
 

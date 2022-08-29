@@ -58,8 +58,6 @@ public class Conditions
 
 #### Model Helpers
 
-xxxxxxxxxx dialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);c#
-
 ##### Rest/JSON Helper
 
 ```c#
@@ -180,7 +178,7 @@ public class DatabaseHelper
 
 To save the trouble of having to constantly call property value changed events, download the package "**PropertyChanged.Fody**" via NuGet:
 
-![image-20220724113713823](C:\Users\david\AppData\Roaming\Typora\typora-user-images\image-20220724113713823.png)
+![image-20220724113713823](..\.img\image-20220724113713823.png)
 
 To start creating ViewModel classes, we must first make a base to prevent having to constantly rewrite code:
 

@@ -52,7 +52,7 @@ using (HttpClient client = new HttpClient())
 
 To get JSON via NuGet, download the package called "**Newtonsoft.Json**":
 
-![image-20220718214412029](C:\Users\david\AppData\Roaming\Typora\typora-user-images\image-20220718214412029.png)
+![image-20220718214412029](..\.img\image-20220718214412029.png)
 
 To turn sample JSON object into C# type, use tool at https://jsonutils.com
 
