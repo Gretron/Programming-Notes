@@ -11,7 +11,7 @@ To include file (warned on failure), see following example:
     include('path');
 ```
 
-### 1. include_once()
+### 2. include_once()
 
 To include file (warned on failure), if not already included, see following example:
 
@@ -20,7 +20,7 @@ To include file (warned on failure), if not already included, see following exam
     include_once('path');
 ```
 
-### 1. require()
+### 3. require()
 
 To include file (halted on failure), see following example:
 
@@ -29,7 +29,7 @@ To include file (halted on failure), see following example:
     require('path');
 ```
 
-### 1. require_once()
+### 4. require_once()
 
 To include file (halted on failure), if not already included, see following example:
 

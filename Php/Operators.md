@@ -28,3 +28,19 @@ class Child extends Parent
 echo Parent::CONST_VALUE; // Using class name
 ```
 
+### 2. .
+
+The <u>.</u> operator is used to concatenate two strings, see following example:
+
+```php
+$var = 'Hello ' . 'World!';
+```
+
+### 3. ->
+
+The <u>-></u> operator is used to access members or methods on the object scope, see following examples:
+
+```php
+$var = $object->member;
+```
+
